@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 7,
+    "Nombre": "Prueba Log6",
+    "NombreUsuario": "Prueba_Log6",
+    "Correo": "Log6@correo.com",
+    "FechaDeNacimiento": "1998-10-03T00:00:00",
+    "PasswordHash": "65998ca3b4b9874e8e8166656f299853e7a3fd5a051ce556efe716ee084b99a7"
+  },
+  {
+    "Id": 8,
+    "Nombre": "Prueba Log7",
+    "NombreUsuario": "Prueba_Log7",
+    "Correo": "Log7@correo.com",
+    "FechaDeNacimiento": "1998-10-03T00:00:00",
+    "PasswordHash": "65998ca3b4b9874e8e8166656f299853e7a3fd5a051ce556efe716ee084b99a7"
+  },
+  {
+    "Id": 9,
+    "Nombre": "Prueba Log8",
+    "NombreUsuario": "Prueba_Log8",
+    "Correo": "Log8@correo.com",
+    "FechaDeNacimiento": "1998-10-03T00:00:00",
+    "PasswordHash": "65998ca3b4b9874e8e8166656f299853e7a3fd5a051ce556efe716ee084b99a7"
+  }
+]
