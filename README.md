@@ -40,7 +40,7 @@ La API incluye:
 ### 1. Clonar el Repositorio
 
 
-    git clone https://github.com/Pedro-JRC/GestorUsuariosProductos
+    git clone https://github.com/Pedro-JRC/GestorUsuariosLog.git
     cd GestorUsuariosWebTokens
 
 
